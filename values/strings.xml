@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal directory</string>
+    <string name="textview">TextView</string>
+    <string name="personal_directory">Personal directory</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="e_mail_id">E-mail Id</string>
+    <string name="enter">ENTER</string>
+</resources>
